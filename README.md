@@ -15,7 +15,7 @@
 <p align="left">
   Here's a link to the previous portfolio repository and website
   <a href="https://richardyoung.netlify.app/" target="_blank">v1 website</a>,
-  <a href="https://github.com/TrickkyRicky/Portfolio" target="_blank">v1 repository</a>,
+  <a href="https://github.com/TrickkyRicky/Portfolio" target="_blank">v1 repository</a>
 </p>
 
 ## Figma
