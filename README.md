@@ -32,6 +32,7 @@ Currently the portfolio will not be open sourced as of right now.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/60045899/200190398-5cacadf7-510f-4f6f-a531-e6336701d6e8.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/60045899/200190443-5d6eeb6d-9602-4f16-8da5-426dd0b1b9f6.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/60045899/200193277-667fb0ea-0cd9-4c20-8a63-8fb9457ab4fb.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/60045899/200190605-622e92b6-518a-48c5-aabe-2a0437d55603.png"></code>
 </div>
